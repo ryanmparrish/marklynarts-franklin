@@ -1,9 +1,9 @@
 # Your Project's Title...
-Your project's description...
+MarklynArts Franklin
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--marklynarts-franklin--ryanmparrish.hlx.page/
+- Live: https://main--marklynarts-franklin--ryanmparrish.hlx.live/
 
 ## Installation
 
